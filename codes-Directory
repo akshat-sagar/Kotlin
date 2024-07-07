@@ -1,1 +1,38 @@
+/*
+ 
+fun main() {
+    val myName = "Akshat" 
+    // myName = "Akshat Sagar" ---- val can not be reassigned
+    var Name = "Akshat Sagar"
+    Name = "Akshat Bhai"     // ----- var can be changed but val can't be
+    val someNumber = 4 
+    println(someNumber)
+    println(Name)
+    println(myName)   
+}
 
+*/
+
+// --------------------------------------------DATA TYPES IN KOTLIN-----------------------------------------------------------
+
+/*
+fun main(){
+//     int-> 1,2,3,-1,-2...
+//     double -> 1.2, 3.6, -6.9...
+//     char -> 'a', 'b'...        // only one character not multiple, that will become string
+//     string -> "Abhay", "Maurya"
+//     boolean -> true, false
+    
+    val a: Int = 10 
+    val b: Double = 5.0 // if this value is not decimal one, it shows error
+    val c: Char = 'A'
+    val d = "My name is Akshat 'TOXSEA' Sagar"
+    val e: Boolean = true
+    System.out.println(a)
+    System.out.println(b)
+    System.out.println(b.toInt())    // to convert the Double value to Integer value, will ignore after decimal places
+    System.out.println(c)
+    System.out.println(d)
+    System.out.println(e)
+}
+*/
